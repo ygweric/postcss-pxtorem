@@ -1,3 +1,10 @@
+## About this fork version
+This fork version is used to fix the issue: [https://github.com/cuth/postcss-pxtorem/issues/101#issuecomment-1774384284](https://github.com/cuth/postcss-pxtorem/issues/101)
+
+As my PR is not merged for now so I create create this version
+
+
+
 # postcss-pxtorem [![NPM version](https://badge.fury.io/js/postcss-pxtorem.svg)](http://badge.fury.io/js/postcss-pxtorem)
 
 A plugin for [PostCSS](https://github.com/ai/postcss) that generates rem units from pixel units.
